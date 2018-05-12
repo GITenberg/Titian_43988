@@ -1,0 +1,38 @@
+_repo: Titian_43988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43988-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bensusan, S. L. (Samuel Levy)
+    alias: Bensusan, Samuel Levy
+    birthdate: &id001 1872
+    deathdate: 1958
+    gutenberg_agent_id: '34029'
+    url: http://www.gutenberg.org/2009/agents/34029
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, Thomas Leman
+    - Hare, T. L. (Thomas Leman)
+    birthdate: *id001
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Titian, approximately 1488-1576'
+title: Titian
+url: http://www.gutenberg.org/ebooks/43988
