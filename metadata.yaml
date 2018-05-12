@@ -7,7 +7,7 @@ creator:
   author:
     agent_name: Bensusan, S. L. (Samuel Levy)
     alias: Bensusan, Samuel Levy
-    birthdate: &id001 1872
+    birthdate: 1872
     deathdate: 1958
     gutenberg_agent_id: '34029'
     url: http://www.gutenberg.org/2009/agents/34029
@@ -16,11 +16,13 @@ creator:
     aliases:
     - Hare, Thomas Leman
     - Hare, T. L. (Thomas Leman)
-    birthdate: *id001
+    birthdate: 1872
     deathdate: 1935
     gutenberg_agent_id: '41203'
     url: http://www.gutenberg.org/2009/agents/41203
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43988#Titian
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2013-10-21'
 gutenberg_type: Text
